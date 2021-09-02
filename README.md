@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning C++,web development and java script
 - 👯 I’m looking to collaborate on A Coding blog
 - 💬 Ask me about c programming and python
-- 📫 How to reach me: mansiraut631@gmail.com
+- 📫 How to reach me: codingblocks984@gmail.com
 
 
