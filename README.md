@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+account)](https://git.io/typing-svg) Hi 👋 I am Mansi 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+account)](https://git.io/typing-svg) 
+
+<h1 align="center">Hi <img src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/Hi.gif" width="29px"> I'm Mansi </h1>
 
 <!--
 **htcmansi/htcmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
