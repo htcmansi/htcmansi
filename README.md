@@ -13,3 +13,14 @@
 - 📫 How to reach me: codingblocks984@gmail.com
 
 
+
+
+
+<h3 align="left">Connect with me</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/mansi-raut-12b97a21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mansi-raut-12b97a21b" height="30" width="40" /></a>
+
+
+<a href="https://www.hackerrank.com/htcmansiraut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="htcmansiraut" height="30" width="40" /></a>
+
+
