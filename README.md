@@ -11,6 +11,17 @@
 - 👯 I’m looking to collaborate on A Coding blog
 - 💬 Ask me about c ,c++ programming and python
 - 📫 How to reach me: codingblocks984@gmail.com
+<!-- GitHub Stats -->
+<details>	
+  <br />
+  <summary><b>⚡ GitHub Stats</b></summary>
+<br>
+<p align=center>
+  <div align=center>
+    <!-- GitHub Streak -->
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=htcmansi&theme=react&border=61dafb&hide_border=false" alt="htcmansi" />
+    </a>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=htcmansi)
 
