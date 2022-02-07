@@ -12,7 +12,7 @@
 - 💬 Ask me about c ,c++ programming and python
 - 📫 How to reach me: codingblocks984@gmail.com
 
-
+![Github stats](https://github-readme-stats.vercel.app/api?username=htcmansi)
 
 
 
