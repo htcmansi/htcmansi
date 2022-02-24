@@ -8,7 +8,6 @@
 
 - 🔭 I’m currently working on something new.
 - 🌱 I’m currently learning web development and java
-- 👯 I’m looking to collaborate on A Coding blog
 - 💬 Ask me about c ,c++ programming and python
 - 📫 How to reach me: codingblocks984@gmail.com
 <!-- GitHub Stats -->
