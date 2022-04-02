@@ -5,11 +5,6 @@
 <!--
 **htcmansi/htcmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-- 🔭 I’m currently working on something new.
-- 🌱 I’m currently learning web development and java
-- 💬 Ask me about c ,c++ programming and python
-- 📫 How to reach me: codingblocks984@gmail.com
 <!-- GitHub Stats -->
 <details>	
   <br />
