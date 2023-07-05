@@ -10,15 +10,19 @@
   <br />
   <summary><b>⚡ GitHub Stats</b></summary>
 <br>
-<p align=center>
-  <div align=center>
-    <!-- GitHub Streak -->
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=htcmansi&theme=react&border=61dafb&hide_border=false" alt="htcmansi" />
-    </a>
+<h1 align="center">Github Stats</h1>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=htcmansi)
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=htcmansi&show_icons=true&theme=dark&locale=en" alt="htcmansi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=htcmansi&show_icons=true&theme=dark&locale=en&layout=compact" alt="htcmansi" /></td>
+  </tr>
+</table>
 
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=htcmansi&theme=dark" alt="htcmansi" /></p>
+  
+  </div>
 
 
 <h3 align="left">Connect with me</h3>
