@@ -7,7 +7,7 @@
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=htcmansi&color=brightgreen">
 
 <!--
-**htcmansi/htcmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**htcmansi/htcmansi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
 <h3 align="left">Languages and Tools:</h3>
